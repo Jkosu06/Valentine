@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const textSets = [
         ["Feliz San Valentin mi niña💞", "Te amo con todo mi ser💕", "Nos vemos muy bien juntos, saquemonos muchas fotos este año💓"],
-        ["Nuevo Texto 1", "Nuevo Texto 2", "Nuevo Texto 3"]
+        ["Feliz San Valentin mi niña💞", "Te amo con todo mi ser💕", "Aqui hay algunas canciones que me gustaria que escucharas, te las dedico💓"]
     ];
     
     const imageSets = [
