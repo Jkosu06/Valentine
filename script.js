@@ -17,12 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const textSets = [
         ["Feliz San Valentin mi niña💞", "Te amo con todo mi ser💕", "Nos vemos muy bien juntos, saquemonos muchas fotos este año💓"],
-        ["Feliz San Valentin mi niña💞", "Te amo con todo mi ser💕", "Aqui hay algunas canciones que me gustaria que escucharas, te las dedico💓"]
+        ["Feliz San Valentin mi niña💞", "Te amo con todo mi ser💕", "Aqui hay algunas canciones que me gustaria que escucharas hoy, te las dedico💓"]
     ];
     
     const imageSets = [
-        ["imagen1.jpg", "imagen2.jpg", "imagen3.jpg", "imagen4.jpg", "imagen5.jpg", "imagen6.jpg"],
-        ["imagen7.jpg", "imagen8.jpg", "imagen9.jpg", "imagen10.jpg", "imagen11.jpg", "imagen12.jpg"]
+        ["imagen1.jpeg", "imagen2.jpeg", "imagen3.jpeg", "imagen4.jpeg", "imagen5.jpeg", "imagen6.jpeg"],
+        ["imagen7.jpeg", "imagen8.jpeg", "imagen9.jpeg", "imagen10.jpeg", "imagen11.jpeg", "imagen12.jpeg"]
     ];
 
     function randomizeImages() {
